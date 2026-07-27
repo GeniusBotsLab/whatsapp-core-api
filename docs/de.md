@@ -1,6 +1,6 @@
 # WhatsApp Core API
 
-> **Kommerzielles Produkt · $2,500 USD**
+> **Kommerzielles Produkt**
 
 Ein vollständiges Bibliotheks- und Serverpaket zur Arbeit mit WhatsApp über eine HTTP API.
 
@@ -16,11 +16,8 @@ Ein vollständiges Bibliotheks- und Serverpaket zur Arbeit mit WhatsApp über ei
 
 Das Paket verbindet WhatsApp-Funktionen über HTTP-Anfragen mit Ihren Systemen. Die Produktmaterialien beschreiben Kontoregistrierung, Messaging-Workflows, Anrufe, Buttons, Profile und Gruppen über die API.
 
-## Preis und Lieferung
+## Lieferung
 
-**Preis: $2,500 USD**
-
-Der Preis beinhaltet Installation, Konfiguration und Schulung.
 
 ## Kontakt und Kauf
 
