@@ -18,6 +18,12 @@
 
 ## Поставка
 
+## Веб-демо
+
+На базе WhatsApp Core API сейчас разрабатывается веб-сервис с модулями для практического тестирования. В демо можно познакомиться с сервисом до обсуждения внедрения; на данный момент доступны функции регистрации аккаунтов.
+
+[Open the Web Demo update on ZennoClub](https://zenno.club/discussion/threads/a-complete-library-and-server-for-working-with-whatsapp-through-http-api.133602/post-885677)
+
 ## Контакты и покупка
 
 - Email: [BotsLab@proton.me](mailto:BotsLab@proton.me)

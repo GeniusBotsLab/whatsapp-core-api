@@ -20,6 +20,12 @@
 
 价格包括安装、配置和培训。
 
+## Web 演示
+
+目前正在基于 WhatsApp Core API 开发带有实测模块的 Web 服务。潜在客户可在讨论实施方案前体验该服务；当前已提供账户注册功能。
+
+[打开 ZennoClub 上的 Web 演示更新](https://zenno.club/discussion/threads/a-complete-library-and-server-for-working-with-whatsapp-through-http-api.133602/post-885677)
+
 ## 联系与购买
 
 - Email: [BotsLab@proton.me](mailto:BotsLab@proton.me)

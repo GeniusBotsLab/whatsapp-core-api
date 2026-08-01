@@ -19,6 +19,12 @@ HTTPリクエストでWhatsApp機能を既存システムへ接続します。�
 ## 提供内容
 
 
+## Webデモ
+
+WhatsApp Core APIを基盤に、実際に試せるモジュールを備えたWebサービスを開発中です。導入のご相談前にサービスを確認でき、現在はアカウント登録機能をご利用いただけます。
+
+[ZennoClub のWebデモ更新を開く](https://zenno.club/discussion/threads/a-complete-library-and-server-for-working-with-whatsapp-through-http-api.133602/post-885677)
+
 ## 連絡先・購入
 
 - Email: [BotsLab@proton.me](mailto:BotsLab@proton.me)

@@ -19,6 +19,12 @@ El paquete conecta funciones de WhatsApp con sus sistemas mediante solicitudes H
 ## Entrega
 
 
+## Demo web
+
+Actualmente se desarrolla un servicio web con módulos de prueba práctica basado en WhatsApp Core API. La demo permite conocer el servicio antes de hablar de la implementación; por ahora están disponibles las funciones de registro de cuentas.
+
+[Abrir la actualización de la demo web en ZennoClub](https://zenno.club/discussion/threads/a-complete-library-and-server-for-working-with-whatsapp-through-http-api.133602/post-885677)
+
 ## Contacto y compra
 
 - Email: [BotsLab@proton.me](mailto:BotsLab@proton.me)

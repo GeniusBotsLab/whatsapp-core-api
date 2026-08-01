@@ -20,6 +20,12 @@ The package is designed to connect WhatsApp capabilities to your own systems thr
 
 ## Delivery
 
+## Web Demo
+
+A web demo is in development on the basis of WhatsApp Core API. It is intended to let prospective customers explore the service modules hands-on before discussing implementation. The demo currently provides account-registration functions.
+
+[Open the Web Demo update on ZennoClub](https://zenno.club/discussion/threads/a-complete-library-and-server-for-working-with-whatsapp-through-http-api.133602/post-885677)
+
 ## Contact and purchase
 
 To discuss fit, purchase, delivery format, or implementation details:

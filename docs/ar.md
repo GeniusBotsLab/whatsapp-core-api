@@ -19,6 +19,12 @@
 ## التسليم
 
 
+## عرض توضيحي على الويب
+
+يجري حالياً تطوير خدمة ويب بوحدات للاختبار العملي بالاعتماد على WhatsApp Core API. يتيح العرض التعرف إلى الخدمة قبل مناقشة التنفيذ؛ وتتوافر حالياً وظائف تسجيل الحسابات.
+
+[فتح تحديث العرض التوضيحي على ZennoClub](https://zenno.club/discussion/threads/a-complete-library-and-server-for-working-with-whatsapp-through-http-api.133602/post-885677)
+
 ## التواصل والشراء
 
 - Email: [BotsLab@proton.me](mailto:BotsLab@proton.me)
