@@ -2,6 +2,8 @@
 
 > **Commercial product**
 
+[English](README.md) · [Română](docs/README.ro.md)
+
 A complete library and server package for working with WhatsApp through an HTTP API.
 
 ![WhatsApp Core API product overview](assets/whatsapp-core-api.png)
