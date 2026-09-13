@@ -1,39 +1,13 @@
-# WhatsApp Core API
+# WhatsApp Business HTTP layer
 
-> **Commercial product**
+An HTTP API and server layer for authorized WhatsApp Business workflows in client-owned systems. This project is not affiliated with Meta and is not an official WhatsApp product.
 
-A complete library and server package for working with WhatsApp through an HTTP API.
+The documented scope covers agreed business workflows: HTTP API, server integration, messages, templates, profiles, groups, implementation, and training. Where a client has the official WhatsApp Business Platform or Cloud API, that official platform is used for the relevant scenarios.
 
-## What is included
+The agreed delivery can include an HTTP request library, HTTP server, installation, configuration, and training. Capabilities, compatibility, and implementation scope are confirmed before work begins.
 
-- Ready-to-use, request-based API library.
-- Server component for HTTP API integration.
-- Working Play Integrity Token solution.
-- Installation and configuration.
-- Training for the product handover.
+This repository is a public listing and documentation only. It contains no commercial source code, tokens, keys, cookies, customer data, production configuration, or private infrastructure. Work uses authorized business accounts, owner data, and permitted integrations only.
 
-## Designed for integration
+## Contact
 
-The package connects WhatsApp capabilities to your systems through HTTP requests. Product materials describe account registration, messaging workflows, calls, buttons, profiles, and groups through the API.
-
-## Delivery
-
-## Web Demo
-
-A web service with hands-on test modules is now being developed on the basis of WhatsApp Core API. The demo lets prospective customers explore the service before discussing implementation; account-registration functions are currently available.
-
-[Open the Web Demo update on ZennoClub](https://zenno.club/discussion/threads/a-complete-library-and-server-for-working-with-whatsapp-through-http-api.133602/post-885677)
-
-## Contact and purchase
-
-- Email: [BotsLab@proton.me](mailto:BotsLab@proton.me)
-- Telegram: [@TheBotsLab](https://t.me/TheBotsLab)
-- Original announcement: [ZennoClub Marketplace](https://zenno.club/discussion/threads/a-complete-library-and-server-for-working-with-whatsapp-through-http-api.133602/)
-
-## Public repository boundary
-
-This is a public product listing and documentation entry point. It does not contain commercial source code, credentials, access tokens, customer data, private infrastructure, deployment configuration, or internal delivery materials.
-
-## Responsible use
-
-Buyers are responsible for lawful use, including platform terms, privacy requirements, consent rules, and anti-spam laws. Use authorized accounts and communicate only with recipients who have opted in where consent is required.
+[Telegram @TheBotsLab](https://t.me/TheBotsLab) · [BotsLab@proton.me](mailto:BotsLab@proton.me)
